@@ -11,3 +11,4 @@ This algorithm required a user input of process ID, Arrival time, burst time and
 It is also the case that there exists very few context switches because after all the processes have entered the CPU for the first time, the algorithm executes in the same manner as the SJF algorithm which switches very sparingly
 
 ## Acknowledgements
+Few posts on google I can't seem to find now
