@@ -1,6 +1,6 @@
 # Current List 
 
-## process-scheduler--Round-Robin-preemptive-
+## Round-Robin (preempt)
 #### A C program that simulates process scheduling using the preemptive round robin algorithm
 
 This algorithm requires a user input of process ID, Arrival time, burst time and time quantum. The core of the algorithm works in the following manner: 
@@ -12,7 +12,7 @@ This algorithm requires a user input of process ID, Arrival time, burst time and
 The only exception to the third condition is if any of the three successive processes terminates, in that case, their successor (or predecessor) takes the spot.
 
 
-## process-scheduler-SRTF
+## SRTF
 #### A C-Program implementing the Shortest Remaining Time First algorithm to schedule processes
 
 This algorithm requires a user input of process ID, Arrival time, burst time and time quantum. The core of the algorithm works in the following manner: 
