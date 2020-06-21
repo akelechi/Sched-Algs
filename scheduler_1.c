@@ -1,5 +1,5 @@
 //December 10, 2018
-//Process Scheduler
+//Process Scheduler implementing the Shortest Remaining Time First Algorithm
 
 #include<stdio.h>
 #include<stdlib.h>
