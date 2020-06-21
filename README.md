@@ -1,5 +1,5 @@
-# process-scheduler-SRTF
-### A C-Program implementing the Shortest Remaining Time First algorithm to schedule processes
+## process-scheduler-SRTF
+#### A C-Program implementing the Shortest Remaining Time First algorithm to schedule processes
 
 This algorithm required a user input of process ID, Arrival time, burst time and time quantum. The core of the algorithm works in the following manner: 
 - Another structure is created to hold the initial burst times. This is periodically decremented as the given process executed in the CPU.
